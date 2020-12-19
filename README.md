@@ -78,10 +78,10 @@ Cuando varios equipos usen el flujo moderno, podrás llevarlo a la organización
     - Explica decisiones ya tomadas.
   
  - Codemarks
-  - Cada vez que se crea una unidad de comunicación en CodeStream se crea un *codemark*.
-  - Un codemark es un enlace entre la información sobre el código (metadata) y el bloque de código al que se refiere.
-  - Un codemark puede ser un mensaje, un issue o un permalink (enlace permanente).
-  - Codemarks son exportables.
+    - Cada vez que se crea una unidad de comunicación en CodeStream se crea un *codemark*.
+    - Un codemark es un enlace entre la información sobre el código (metadata) y el bloque de código al que se refiere.
+    - Un codemark puede ser un mensaje, un issue o un permalink (enlace permanente).
+    - Codemarks son exportables.
   
 - Documentación On Demand
   - En lugar de pensar qué documentar, fomentar las preguntas.
