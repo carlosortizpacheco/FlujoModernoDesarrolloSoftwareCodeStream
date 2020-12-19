@@ -57,8 +57,33 @@ Cuando varios equipos usen el flujo moderno, podrás llevarlo a la organización
   - Compartir conocimientos.
  
 - Ventajas de tener un issue tracker integrado
-  - Agregar un ticket minetras escribes o revisas código.
+  - Agregar un ticket mientras escribes o revisas código.
   - Conectar el ticket directamente al código.
   - Notificar a la persona indicada que hay un ticket y dirigirlo al lugar correcto.
   - No tener que cambiar de aplicación o contexto.
   - Crear un registro de los tickets asociados al código mismo.
+
+- Code chat
+  - El Code Chat es mensajería de equipo diseñada para trabajar con líneas y bloques de código.
+  - Detecta cambios y diferencias en distintas versiones del mismo bloque.
+  - Contiene la meta-información para evolucionar con el código.
+  - Se integra con Slack, Pull Request, Jira, Asana.
+  - Se transforma en documentación.
+  - Proposito
+    - Colaboración informal atomizada.
+    - Permite hacer preguntas y sugerencias sobre cualquier parte del código.
+    - Conecta distintas partes del flujo.
+    - Conecta distintos bloques de código.
+    - Documenta el código.
+    - Explica decisiones ya tomadas.
+  
+ - Codemarks
+  - Cada vez que se crea una unidad de comunicación en CodeStream se crea un *codemark*.
+  - Un codemark es un enlace entre la información sobre el código (metadata) y el bloque de código al que se refiere.
+  - Un codemark puede ser un mensaje, un issue o un permalink (enlace permanente).
+  - Codemarks son exportables.
+  
+- Documentación On Demand
+  - En lugar de pensar qué documentar, fomentar las preguntas.
+  - En lugar de esperar al PR, fomentar las sugerencias.
+  - En lugar de armar documentos de inducción (onboarding), dejar que el nuevo desarrollador explique lo que necesita.
